@@ -1,0 +1,74 @@
+:: Awake at Mon Dec 16 14:12:47 2019, check connection... ok
+:: Awake at Mon Dec 16 14:12:52 2019, check connection... ok
+:: Awake at Mon Dec 16 14:12:57 2019, check connection... ok
+:: Awake at Mon Dec 16 14:13:03 2019, check connection... ok
+:: Awake at Mon Dec 16 14:13:08 2019, check connection... ok
+:: Awake at Mon Dec 16 14:13:13 2019, check connection... ok
+:: Awake at Mon Dec 16 14:21:00 2019, check connection... ok
+:: Awake at Mon Dec 16 14:21:28 2019, check connection... ok
+:: Awake at Mon Dec 16 14:21:37 2019, check connection... ok
+:: Awake at Mon Dec 16 14:22:35 2019, check connection...:: Encrypting password...
+(1/1) generate base64-utf8 password
+:: Requesting login.ecust.edu.cn...
+ response as:	<Response [200]>
+(1/3) forced redirect:	http://login.ecust.edu.cn/&arubalp=c294da43-5d08-4c29-adc8-121ba3ae69
+(2/3) target ip:	172.20.3.81
+(3/3) get ac_id as:	3
+
+response:	login_ok,,bQ0qQMxJvKa38joL2%2FjcHkC%2BmsG82yAvS0XGTkaRiY6qr74byIoDFYh2ywcZNWgCrUFgTfEB%2FPud7cFimWLCNkvncjMknZCgDCz8VMzH8rfoV8QkId9nQ3YQckXU8SVXvxOaSXe1ddSrTVh57eNwaBjHN2Jcl4uklRd%2B3bBaMoElRsz%2BwHNyJwJsHAYcEnnyRdJx4vZhxX4LNLg%2BnhETe6wDBTd20kj4Ywh0QH1vHjucf3wZ0fw25J%2F3mW0%3D
+
+:: Awake at Mon Dec 16 14:22:43 2019, check connection...:: Encrypting password...
+(1/1) generate base64-utf8 password
+:: Requesting login.ecust.edu.cn...
+ response as:	<Response [302]>
+(1/3) performing redirect
+(2/3) target ip:	172.20.3.81
+(3/3) get ac_id as:	3
+
+response:	unknown user
+
+:: Awake at Mon Dec 16 14:22:53 2019, check connection...:: Encrypting password...
+(1/1) generate base64-utf8 password
+:: Requesting login.ecust.edu.cn...
+ response as:	<Response [200]>
+(1/3) forced redirect:	http://login.ecust.edu.cn/&arubalp=c294da43-5d08-4c29-adc8-121ba3ae69
+(2/3) target ip:	172.20.3.81
+(3/3) get ac_id as:	3
+
+response:	login_ok,,bQ0qQMxJvKa38joL2%2FjcHkC%2BmsG82yAvS0XGTkaRiY6qr74byIoDFYh2ywcZNWgCrUFgTfEB%2FPud7cFimWLCNkvncjMknZCgDCz8VMzH8rfoV8QkId9nQ3YQckXU8SVXvxOaSXe1ddSrTVh57eNwaBjHN2Jcl4uklRd%2B3bBaMoElRsz%2BwHNyJwJsHAYcEnnyRdJx4vZhxX4LNLg%2BnhETe6wDBTd20kj4Ywh0QH1vHjucf3wZ0fw25J%2F3mW0%3D
+
+:: Awake at Mon Dec 16 14:23:22 2019, check connection...:: Encrypting password...
+(1/1) generate base64-utf8 password
+:: Requesting login.ecust.edu.cn...
+ response as:	<Response [302]>
+(1/3) performing redirect
+(2/3) target ip:	172.20.3.81
+(3/3) get ac_id as:	3
+
+response:	unknown user
+
+:: Awake at Mon Dec 16 14:23:37 2019, check connection...:: Encrypting password...
+(1/1) generate base64-utf8 password
+:: Requesting login.ecust.edu.cn...
+ response as:	<Response [200]>
+(1/3) forced redirect:	http://login.ecust.edu.cn/&arubalp=c294da43-5d08-4c29-adc8-121ba3ae69
+(2/3) target ip:	172.20.3.81
+(3/3) get ac_id as:	3
+
+response:	login_ok,,bQ0qQMxJvKa38joL2%2FjcHkC%2BmsG82yAvS0XGTkaRiY6qr74byIoDFYh2ywcZNWgCrUFgTfEB%2FPud7cFimWLCNkvncjMknZCgDCz8VMzH8rfoV8QkId9nQ3YQckXU8SVXvxOaSXe1ddSrTVh57eNwaBjHN2Jcl4uklRd%2B3bBaMoElRsz%2BwHNyJwJsHAYcEnnyRdJx4vZhxX4LNLg%2BnhETe6wDBTd20kj4Ywh0QH1vHjucf3wZ0fw25J%2F3mW0%3D
+
+:: Awake at Mon Dec 16 14:23:48 2019, check connection... ok
+:: Awake at Mon Dec 16 14:24:14 2019, check connection...:: Encrypting password...
+(1/1) generate base64-utf8 password
+:: Awake at Mon Dec 16 14:24:30 2019, check connection... ok
+:: Awake at Mon Dec 16 14:26:03 2019, check connection... ok
+:: Awake at Mon Dec 16 14:26:38 2019, check connection...:: Encrypting password...
+(1/1) generate base64-utf8 password
+:: Requesting login.ecust.edu.cn...
+ response as:	<Response [200]>
+(1/3) forced redirect:	http://login.ecust.edu.cn/&arubalp=c294da43-5d08-4c29-adc8-121ba3ae69
+(2/3) target ip:	172.20.3.81
+(3/3) get ac_id as:	3
+
+response:	login_ok,,bQ0qQMxJvKa38joL2%2FjcHkC%2BmsG82yAvS0XGTkaRiY6qr74byIoDFYh2ywcZNWgCrUFgTfEB%2FPud7cFimWLCNkvncjMknZCgDCz8VMzH8rfoV8QkId9nQ3YQckXU8SVXvxOaSXe1ddSrTVh57eNwaBjHN2Jcl4uklRd%2B3bBaMoElRsz%2BwHNyJwJsHAYcEnnyRdJx4vZhxX4LNLg%2BnhETe6wDBTd20kj4Ywh0QH1vHjucf3wZ0fw25J%2F3mW0%3D
+
