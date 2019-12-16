@@ -1,9 +1,9 @@
 ### Usage
-edit core.py:
-        ...
-        scheduler('your_username', 'your_password')
+##### edit core.py:          
+    ...
+    scheduler('your_username', 'your_password')
 
-run:
+##### run:
     python core.py
 
 
